@@ -1,4 +1,4 @@
-# spot_the_bot
+# Spot The Bot
 Bot Detection Algorithm to Detect Twitter Bots
 
 ## Our Approach and Results 
